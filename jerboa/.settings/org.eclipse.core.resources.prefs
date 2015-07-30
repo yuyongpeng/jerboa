@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//RabbitMQTest/AsyncConsumer.py=utf8
+encoding//RabbitMQTest/AsyncPublisher.py=utf8
+encoding//RabbitMQTest/RabbitMQ.py=utf8
+encoding//RabbitMQTest/RabbitMQ2.py=utf8
+encoding//RabbitMQTest/RabbitMQ3.py=utf8
+encoding//RabbitMQTest/RabbitMQ4.py=utf8
+encoding//RabbitMQTest/RabbitMQ5.py=utf8
+encoding//db/mysql.py=utf8
+encoding//exception/myerror.py=utf8
+encoding//log/Mylogger.py=utf8
+encoding//log/__init__.py=utf8
+encoding/test.py=utf8
