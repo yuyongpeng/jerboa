@@ -2,7 +2,7 @@
 '''
 Created on 2015年7月30日
 
-@author: 俞永鹏
+@author: 俞永鹏1
 '''
 from log import Mylogger
 import ConfigParser
